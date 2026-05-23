@@ -415,7 +415,7 @@
             </div>
             <hr class="bg-light">
             <div class="text-center">
-                <p>&copy; 2025 AnimeNews. All rights reserved.</p>
+                <p>&copy; 2025 AnimeNews. Nisrina Siti Luthfiyah.</p>
             </div>
         </div>
     </footer>
