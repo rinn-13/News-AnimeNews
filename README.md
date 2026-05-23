@@ -1,4 +1,8 @@
-[![Watch Video](https://github.com/rinn-13/News-AnimeNews/blob/main/AnimeNews_logo2.png)](https://youtu.be/ouNVRUjUUAU)
+## 🎥 Demo Video
+
+Video demo singkat:
+
+[![Watch Video](https://github.com/rinn-13/News-AnimeNews/blob/main/logoanime.jpg)](https://youtu.be/ouNVRUjUUAU)
 
 
 
